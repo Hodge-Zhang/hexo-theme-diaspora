@@ -1,7 +1,7 @@
 # Hexo-theme-diaspora
 
 
-**[在线预览 | PREVIEW ](http://fech.in)**
+**[在线预览 | PREVIEW ](https://hodge-zhang.github.io)**
 
 一款基于WP移植的Hexo主题，适合喜欢摄影，影评，乐评和玩弄文字的你，干净，清新； 响应式，Ajax，更多好玩的等你来发现。 
 
